@@ -14,9 +14,9 @@ public class ServicioOrden implements Sujeto{
     public void registrarObservador(ObservadorOrden o){
         observadores.add(o);
     }
-      @Override
-    public void removeObservador (ObservadorOrden o){
-        int i = observadores.indexOf(o):
+    @Override
+    public void removerObservador (ObservadorOrden o){
+        int i = observadores.indexOf(o);
           if (i>= 0){
               observadores.remove(i);
           }
@@ -30,8 +30,8 @@ public class ServicioOrden implements Sujeto{
         }
     }
     public void confirmarOrden (Carrito carrito, ProcesadorPago procesadorPago){
-        double subtotal = carrito.calcularTotal()();
-        double totalConDescuento  estrategiaDescuento.aplicarDescuento(subtotal);
+        double subtotal = carrito.calcularTotal();
+        double totalConDescuento = estrategiaDescuento.aplicarDescuento(subtotal);
 
         procesadorPago.pagar(totalConDescuento);
 
