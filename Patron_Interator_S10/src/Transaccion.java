@@ -1,4 +1,4 @@
 public class Transaccion {
-    prueba2
+    prueba2e
 
 }
