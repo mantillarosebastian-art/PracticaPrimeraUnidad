@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Patron_Interator_S10/Patron_Interator_S10.iml" filepath="$PROJECT_DIR$/Patron_Interator_S10/Patron_Interator_S10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Virtual-store.iml" filepath="$PROJECT_DIR$/Virtual-store.iml" />
     </modules>
   </component>
