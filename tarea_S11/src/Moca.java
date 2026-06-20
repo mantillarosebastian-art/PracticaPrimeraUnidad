@@ -3,7 +3,7 @@ public class Moca extends DecoratorComplemento {
     public Moca(Cafe bebida){
         this.bebida=bebida;
     }
-    public String getdescripcion(){
+    public String getDescripcion(){
         return bebida.getDescripcion() + ", Moca";
     }
     public double costo(){

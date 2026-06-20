@@ -3,7 +3,7 @@ public class Crema extends DecoratorComplemento{
     public Crema (Cafe bebida){
         this.bebida=bebida;
     }
-    public String getdescripcion(){
+    public String getDescripcion(){
         return bebida.getDescripcion() + ", Crema";
     }
     public double costo(){

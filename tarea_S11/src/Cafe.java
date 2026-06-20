@@ -1,8 +1,8 @@
 public abstract class Cafe {
-    String descripcion ="Bebida desconocida";
+    String Descripcion ="Bebida desconocida";
 
             public String getDescripcion(){
-        return descripcion;
+        return Descripcion;
             }
             public abstract double costo();
 }
