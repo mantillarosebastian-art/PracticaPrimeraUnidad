@@ -3,7 +3,7 @@ public class Soya extends DecoratorComplemento{
     public Soya(Cafe bebida){
         this.bebida=bebida;
     }
-    public String getdescripcion(){
+    public String getDescripcion(){
         return bebida.getDescripcion() + ", Soya";
     }
     public double costo(){

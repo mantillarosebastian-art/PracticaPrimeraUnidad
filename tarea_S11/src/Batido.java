@@ -1,6 +1,6 @@
 public class Batido extends Cafe {
     public Batido () {
-        descripcion = "Cafe Batido";
+        Descripcion = "Cafe Batido";
     }
     public double costo(){
         return 0.89 ;
