@@ -20,6 +20,6 @@ public class LaptopGamer implements Laptop {
         System.out.println("Marca y Modelo : " +this.marcaModelo);
         System.out.println("Año de Facribacion:"+this.fechaFabricacion);
         System.out.println("Procesador:"+ this.procesador);
-        System.out.println("Tamaño de Pantalla"+ this.TamPantalla);
+        System.out.println("Tamaño de Pantalla:"+ this.TamPantalla);
     }
 }
