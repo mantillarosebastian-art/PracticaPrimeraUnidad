@@ -1,4 +1,4 @@
-public class Laptop {
+public interface Laptop {
     void ejecutarPrueba ();
     void montrarDetalles ();
 }
