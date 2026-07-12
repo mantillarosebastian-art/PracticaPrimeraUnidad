@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod_S12/FactoryMethod_S12.iml" filepath="$PROJECT_DIR$/FactoryMethod_S12/FactoryMethod_S12.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patron_Interator_S10/Patron_Interator_S10.iml" filepath="$PROJECT_DIR$/Patron_Interator_S10/Patron_Interator_S10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica_S013/Practica_S013.iml" filepath="$PROJECT_DIR$/Practica_S013/Practica_S013.iml" />
       <module fileurl="file://$PROJECT_DIR$/Virtual-store.iml" filepath="$PROJECT_DIR$/Virtual-store.iml" />
       <module fileurl="file://$PROJECT_DIR$/tarea_S11/tarea_S11.iml" filepath="$PROJECT_DIR$/tarea_S11/tarea_S11.iml" />
     </modules>
