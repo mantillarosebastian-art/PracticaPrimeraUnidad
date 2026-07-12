@@ -3,5 +3,5 @@ public interface PlanDatos {
     float calculoPago(int datos);
     String getNombre();
     void setTasa(float tasa);
-    void setProvedor(String provedor);
+    void setProveedor(String provedor);
 }
